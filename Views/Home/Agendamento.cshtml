@@ -1,0 +1,52 @@
+@model criarAgendamento;
+@{
+    ViewData ["Title"]= "Agendamento";
+}
+
+<h3>Preencha os dados para marcar seua agendamento.</h3>
+<br>
+<form method="post">
+<p>
+<label asp-for="Nome">Nome:</label>
+<br>
+<input asp-for="Nome" required>
+</p>
+
+<p>
+<label asp-for="Telefone">Telefone:</label>
+<br>
+<input asp-for="Telefone" required>
+</p>
+
+<p>
+<label asp-for="Animal">Animal:</label>
+<br>
+<input asp-for="Animal" required>
+</p>
+
+<p>
+<label asp-for="Porte">Porte do animal:</label>
+<br>
+<select asp-for="Porte">
+  <option value="Pequeno" selected>Pequeno</option>
+  <option value="Médio">Médio</option>
+  <option value="Grande">Grande</option>
+</select>
+
+<p>
+<label asp-for="Serviço">O que precisa?:</label>
+<br>
+<input asp-for="Serviço" required>
+</p>
+
+<p>
+<label asp-for="Data">Data:</label>
+<br>
+<input asp-for="Data" required>
+</p>
+
+<p>
+<input type="submit" value="Enviar">
+</p>
+
+</form>

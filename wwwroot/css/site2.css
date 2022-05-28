@@ -1,0 +1,28 @@
+
+
+.NovoMain{
+    background-color: #23001B;
+    color: white;
+}
+
+.Rodape{
+    background-color: white;
+}
+
+
+
+
+.principalfoto {
+    background-color: #0e000b;
+    border-radius: 24em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container{
+   flex: auto;
+    color: black;
+    border-radius: 0%;
+}
+
+

@@ -1,0 +1,82 @@
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.exe
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.deps.json
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.json
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.Views.dll
+C:\Users\Bruno\Desktop\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.input.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.output.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorCoreGenerate.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Feito.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.Manifest.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.xml
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bruno\Desktop\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.exe
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.deps.json
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.json
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.Views.dll
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\bin\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.input.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.output.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.RazorCoreGenerate.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Feito.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cs
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.Manifest.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.xml
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\SENAC - EAD\3 ATIVIDADE UC2 - SENAC\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CopyComplete
